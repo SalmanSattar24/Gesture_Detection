@@ -20,6 +20,9 @@ Blue LED (Static):
 - Anode (+) → GPIO 12 (ESP32) through 220Ω resistor
 - Cathode (-) → GND (ESP32)
 
+
+
+
   ESP32                MPU6050
 ┌────────┐          ┌────────┐
 │     3.3V├────────►│VCC     │
